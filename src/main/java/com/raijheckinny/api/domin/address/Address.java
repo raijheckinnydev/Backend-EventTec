@@ -1,4 +1,4 @@
-package com.raijheckinny.api.address;
+package com.raijheckinny.api.domin.address;
 
 import com.raijheckinny.api.domin.event.Event;
 import jakarta.persistence.*;
